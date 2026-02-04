@@ -5,7 +5,7 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-<img width="1876" height="1674" alt="image" src="https://github.com/user-attachments/assets/2d2e3bf1-0ebb-4727-9d46-9b672a48a4dd" />
+<img width="1880" height="1644" alt="image" src="https://github.com/user-attachments/assets/2bd88432-29f1-4baf-afa8-ce6a69ec3933" />
 
 <div align="center">
   <img src="https://images.unsplash.com/photo-1503376780353-7e6692767b70?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" alt="TurboRacer Screenshot" width="800"/>
